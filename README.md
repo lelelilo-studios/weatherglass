@@ -9,5 +9,8 @@ wind, build storms, move the sun and turn the seasons.
 - Press in the sky to condense a cloud, sweep across the land to blow, brush mist into the valley, wipe the
   condensation off the glass.
 - Drag the sun (or the moon) to change the time of day; turn the season dial; press U to hide the controls.
+- Cayito and its family of Lelelilos (from [lelelilo.com](https://lelelilo.com)) live in the cabin. They fish off the
+  jetty, garden, fly kites, build snow pillows and skate, open umbrellas in the rain and run inside from storms. Pick
+  one up, gently.
 
 This repository only holds the published site: one self-contained `index.html`, no build step.
